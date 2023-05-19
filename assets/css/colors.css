@@ -1,0 +1,13 @@
+/* Colors */
+:root {
+    --dark-green: #272727; /* Dark grey */
+    --deep-green: #1f5014; /* Deep green */
+    --kelly-green: #457d58; /* Kelly green */
+    --kelly-green2: #2f571d;
+    --kelly-green3: #57963a;
+    --sage-green: #7d9b76; /* Sage green */
+    --liter-sage-green: #A6B9A4; /* Lite sage green */
+    --pale-green: #cbddd1; /* Pale green */
+    --lite-green: #E1E9DA; /* Lite green */
+    --white-green: #f6f6e9; /* Off-white */
+}
